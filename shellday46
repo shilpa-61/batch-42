@@ -16,6 +16,6 @@ Example 2
 
 
 #!/bin/bash 
-echo "Hello there"
+echo "Hello there i am sagar speking"
 echo "My name is $(whoami)"
-echo "Nice to meet you
+echo "Nice to meet you batch42 student's"
