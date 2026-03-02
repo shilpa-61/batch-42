@@ -116,7 +116,7 @@ Example 4  of Arithmetic operations in linux
 #!/bin/bash
 
 # Add two numeric value
-((sum=10+5))
+((sum=10-5))
 #Print the result
 echo $sum
 
